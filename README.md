@@ -19,3 +19,5 @@ PWA to save links to read later
 - https://chodounsky.com/2019/03/24/progressive-web-application-as-a-share-option-in-android/
 - https://docs.pwabuilder.com/#/
 - https://website-categorization.whoisxmlapi.com/api/documentation/making-requests
+- https://gobuffalo.io/
+- https://dev.to/otomato_io/getting-started-with-buffalo-1cc0
